@@ -3,7 +3,7 @@
 É um das atividades do curso <b>DevClub</b>. Foram utilizados as ferramentas HTML, CSS e JavaScript.
 <br>
 <br>
-Pode-se clicar <a href="https://pjinsta.netlify.app/">aqui</a> para acessar o projeto hospedado.
+Pode-se clicar <a href="https://idanisiqueira.github.io/projeto-ig/">aqui</a> para acessar o projeto hospedado.
 <br>
 <br>
 Representação no computador desktop ou notebook:
