@@ -6,7 +6,7 @@
 Pode-se clicar <a href="https://pjinsta.netlify.app/">aqui</a> para acessar o projeto hospedado.
 <br>
 <br>
-Representação em computador desktop ou notebook:
+Representação no computador desktop ou notebook:
 <br>
   <br>
 <img src="https://i.imgur.com/r8Ot4DE.png">
